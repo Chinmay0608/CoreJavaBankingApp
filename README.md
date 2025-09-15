@@ -20,18 +20,18 @@ I/O: Interactive Command-Line Interface (CLI) using Scanner
 How To Run
 You can clone and run this project locally by following these steps:
 
- 1 Clone the repository:
+ 1) Clone the repository:
 
-  git clone [https://github.com/Chinmay0608/CoreJavaBankingApp.git](https://github.com/Chinamy0608/CoreJavaBankingApp.git)
+    git clone [https://github.com/Chinmay0608/CoreJavaBankingApp.git](https://github.com/Chinamy0608/CoreJavaBankingApp.git)
 
-2 Navigate to the source directory:
+2) Navigate to the source directory:
 
-  cd CoreJavaBankingApp/src
+   cd CoreJavaBankingApp/src
 
-3 Compile all Java files:
+3) Compile all Java files:
 
-  javac *.java
+   javac *.java
 
-Run the main application:
+4) Run the main application:
 
-java Main
+   java Main
